@@ -1,0 +1,8 @@
+.contenido {
+    margin-left:25%;
+    padding-top: 0.5%;
+    content: "";
+    display: table;
+    clear: both;
+    
+  }
